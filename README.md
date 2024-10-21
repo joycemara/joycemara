@@ -24,4 +24,4 @@
 
 ## Meus Projetos:
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joycemara&repo=joycemara&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/joycemara/dio-resumos-git-e-github)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=joycemara&repo=desafios&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/joycemara/desafios)
